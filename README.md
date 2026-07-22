@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
 
 <h3 align="center">
-Frontend Web Developer | Learning React, Django & AI & Data Science
+Full Stack Web Developer | Learning React, Django & AI & Data Science
 </h3>
 
 <p align="center">
